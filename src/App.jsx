@@ -5,8 +5,6 @@ import Badminton from "./assets/Pages/Badminton";
 import Basketball from "./assets/Pages/Basketball";
 
 function App() {
-  const [count, setCount] = useState(0);
-
   return (
     <>
       <Basketball />
